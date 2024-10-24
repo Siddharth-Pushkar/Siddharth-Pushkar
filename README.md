@@ -37,26 +37,48 @@
   <h4> Full Stack | AI and ML </h4>
    </p>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Siddharth-Pushkar&show_icons=true&theme=radical"/>
-  </a>
+</br>
+</br>
 
+<p align="center">
+   <img alt="Stargazers" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siddharth-Pushkar&theme=2077">
+   <img alt="Releases" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siddharth-Pushkar&theme=2077"/>
+   <img alt="conventionalcommits" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddharth-Pushkar&theme=2077">
+   <img alt="testandlint" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddharth-Pushkar&theme=2077">
+   <img alt="productivity" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siddharth-Pushkar&theme=2077&utcOffset=8">
 </p>
+
+
+</br>
+</br>
+
+## Technologies ⚡
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+   <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+   <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+   <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+   <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
+   <img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
+   <img src="svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
 </p>
 
-## GitHub trophy
+</br>
+</br>
+
+## GitHub trophy 🏆
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
    <img src="https://github-profile-trophy.vercel.app/?username=Siddharth-Pushkar&theme=juicyfresh&no-bg=true" />
 </div>
+
+</br>
+</br>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
