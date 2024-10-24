@@ -54,8 +54,9 @@
 </p>
 
 ## GitHub trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Siddharth-Pushkar&theme=juicyfresh&no-bg=true" />
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+   <img src="https://github-profile-trophy.vercel.app/?username=Siddharth-Pushkar&theme=juicyfresh&no-bg=true" />
+</div>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
